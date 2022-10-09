@@ -77,7 +77,7 @@ location / {
 # Additional Configuration
 
 Enabling other eggs (Minecraft Bedrock):
-1. [Download the eggs from Parkervcp's GitHub Repository](https://github.com/parkervcp/eggs/tree/master/bots/discord/discord.js)
+1. [Download the eggs from Parkervcp's GitHub Repository](https://github.com/parkervcp/eggs/tree/master/game_eggs/minecraft/bedrock)
 2. Add the Pocketmine & Vanilla Bedrock eggs to your panel
 3. Get the egg ID of both of them and set it as the ID in settings.json
 
