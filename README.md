@@ -6,7 +6,7 @@
 
 All features:
 - Resource Management (Use it to create servers, etc)
-- Coins (AFK Page earning, Linkvertise earning, Gift them away)
+- Coins (AFK Page earning(may not work afk), Linkvertise earning, Gift them away)
 - Renewal (Require coins for renewal)
 - Coupons (Gives resources & coins to a user)
 - Servers (create, view, edit servers)
