@@ -116,4 +116,4 @@ Making the dashboard runs on startup:
 To stop a currently running IshanActyl instance, use `pm2 stop IshanActyl`
 
 # Credits
-Fork Of Heliactyl v12 And Dashactyl v0.4
+Fork Of Heliactyl v12, Dashactyl Corona Theme And Dashactyl v0.4
