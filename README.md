@@ -2,7 +2,7 @@
 
 <hr>
 
-# IshanActyl v1
+# IshanActyl v1.0
 
 All features:
 - Resource Management (Use it to create servers, etc)
