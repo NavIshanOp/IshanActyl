@@ -47,13 +47,13 @@
             "name": "Example server 1",
             "invite": "https://discord.gg/example1",
             "id": "000000000000000001",
-            "coins": 200
+            "coins": 50
           },
           {
             "name": "Example server 2",
             "invite": "https://discord.gg/example2",
             "id": "000000000000000002",
-            "coins": 200
+            "coins": 50
           }
         ]
       },
